@@ -86,16 +86,16 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke {
     background: transparent url(backgroundimage_1.jpg) no-repeat scroll center center;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
     opacity: 1.00;
 }
 .paragraph_style_4 {
@@ -258,9 +258,6 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_252_28 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_98_27 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_227_44 {
